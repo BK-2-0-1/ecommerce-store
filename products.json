@@ -1,0 +1,49 @@
+[
+  {
+    "title": "Black Tshirt",
+    "id": "black_tshirt",
+    "description": "Quis blandit turpis cursus in. Quis blandit turpis cursus in.",
+    "price": "9.99",
+    "image": "images/black_tshirt.jpeg"
+  },
+
+  {
+    "title": "White Tshirt",
+    "id": "white_tshirt",
+    "description": "Aliquam sem et tortor. Quis blandit turpis cursus in.",
+    "price": "7.99",
+    "image": "images/white_tshirt.jpeg"
+  },
+
+  {
+    "title": "Green Dress",
+    "id": "green_dress",
+    "description": "Duis aute irure dolor in reprehenderit. Quis blandit turpis cursus in.",
+    "price": "20.99",
+    "image": "images/green_dress.jpg"
+  },
+
+  {
+    "title": "Pink Sweater",
+    "id": "pink_sweater",
+    "description": "Excepteur sint occaecat cupidatat non. Quis blandit turpis cursus in.",
+    "price": "15.99",
+    "image": "images/pink_sweater.jpg"
+  },
+
+  {
+    "title": "White Polo",
+    "id": "white_polo",
+    "description": "Vitae tempus quam pellentesque nec. Quis blandit turpis cursus in.",
+    "price": "6.99",
+    "image": "images/white_polo.jpg"
+  },
+
+  {
+    "title": "Black Tshirt - Stay Rich",
+    "id": "black_tshirt_2",
+    "description": "Facilisis sed odio morbi quis commodo odio aenean.",
+    "price": "8.99",
+    "image": "images/black_tshirt2.jpeg"
+  }
+]
